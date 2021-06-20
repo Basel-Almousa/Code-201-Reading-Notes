@@ -3,5 +3,5 @@
 
 | Topics   | example| 
 |-----------|-----------|
-|read02 |[read02](https://basel-almousa.github.io/Rreading-Notes-201/read02)|
-|read03 |[read03](https://basel-almousa.github.io/Rreading-Notes-201/read03)|
+| raed02 |[read02](https://basel-almousa.github.io/Reading-Notes-201/read02)|
+| read03 |[read03](https://basel-almousa.github.io/Reading-Notes-201/read03)|
