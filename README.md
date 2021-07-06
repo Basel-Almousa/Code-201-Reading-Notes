@@ -16,4 +16,5 @@
 | read12 |[read12](https://basel-almousa.github.io/Reading-Notes-201/read12)|
 | read13 |[read13](https://basel-almousa.github.io/Reading-Notes-201/read13)|
 | read14 |[read14](https://basel-almousa.github.io/Reading-Notes-201/read14)|
+| read14-b |[read14-b](https://basel-almousa.github.io/Reading-Notes-201/read14-b)|
 | read15 |[read15](https://basel-almousa.github.io/Reading-Notes-201/read15)|
